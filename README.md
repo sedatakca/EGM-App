@@ -1,2 +1,2 @@
 # EGM-App
-Security General Directorate Desktop Application
+Police Office General Directorate Desktop Application
